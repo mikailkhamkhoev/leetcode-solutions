@@ -12,7 +12,7 @@ class Solution {
                 val nextEmpty = (i == flowerbed.size - 1 || flowerbed[i + 1] == 0)
                 
                 if (prevEmpty && nextEmpty) {
-                    flowerbed[i] = 0
+                    flowerbed[i] = 1
                     count++
                     i++
                 }
