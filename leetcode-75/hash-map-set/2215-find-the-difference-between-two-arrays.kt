@@ -1,5 +1,5 @@
-// Time complexity: O(n)
-// Space complexity: O(n)
+// Time complexity: O(n + m)
+// Space complexity: O(n + m)
 
 class Solution {
     fun findDifference(nums1: IntArray, nums2: IntArray): List<List<Int>> {
