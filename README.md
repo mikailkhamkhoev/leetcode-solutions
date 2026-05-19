@@ -1,3 +1,3 @@
-# LeetCode 75 Solutions
+# LeetCode Solutions
 
-Kotlin solutions for the LeetCode 75 study plan.
+A collection of solutions to LeetCode problems.
