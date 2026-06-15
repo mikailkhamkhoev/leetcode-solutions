@@ -1,3 +1,6 @@
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+
 /**
  * Example:
  * var ti = TreeNode(5)
